@@ -70,7 +70,7 @@ I have followed those wise words all the way along on a very good learning path.
 
 ## So, I started writing a program that used a little more Javascript, and a lot less HTML.
 
-Needless to say, I started trying to put my CSS into the right place, at the top of the file. The job of this new program was to make up HTML like a 'cookie-cutter', and to shorten the *spiel* on this one: It also cut up and image and matched the parts to HTML, a rather brilliant feat.
+Needless to say, I started trying to put my CSS into the right place, at the top of the file. The job of this new program was to make up HTML like a 'cookie-cutter', and to shorten the *spiel* on this one: It also cut up an image and matched the parts to HTML, a rather brilliant feat.
 
 At that time, it felt like a real accomplishment for me. Just think that you can finally be able to bring graphical elements easily and seamlessly into the HTML environment. All of the code the program produced was giving the CSS in absolute positions. The images all fit exactly together. You could take the initial reference image and then use it as a template/model for your HTML image-grand-layout. I drew up a whole production around this program and it's major idea. If you just think about what that little program can do, and then you apply yourself creatively and also use BASH to make up some 'two-frame-animations', you suddenly have a website that looks very interesting and active. Then I figured out how to add some buttons and audio. Voila! You have a real production happening!
 
