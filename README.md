@@ -1,8 +1,8 @@
+![Six stars in a horizontal break line pattern](./a_images/a_hbl.png)
+
 # Is Now The Time to Learn Markdown?
 
 It's so minimal, I guess it's impossible not to learn and use it. What's really good about it is that it is fast, and it visually represents what the page will look like when it is rendered, so there's no real purpose in having a preview.
-
-![Six stars in a horizontal break line pattern](./a_images/a_hbl.png)
 
 ## Here we go! Spicing it up with Markdown!
 
