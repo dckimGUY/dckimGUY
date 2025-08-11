@@ -1,4 +1,14 @@
-It's just a wonder that I haven't ventured into 'markdown' yet. I have been busy working away at HTML/Javascript/CSS...
+# Is Now The Time to Learn Markdown?
+
+It's so minimal, I guess it's impossible not to learn and use it. What's really good about it is that it is fast, and it visually represents what the page will look like when it is rendered, so there's no real purpose in having a preview.
+
+![Six stars in a horizontal break line pattern](./a_images/a_hbl.png)
+
+## Here we go! Spicing it up with Markdown!
+
+
+
+I have been busy working away at HTML/Javascript/CSS...
 
 This little project has become the centre of my world. From the earliest stages of the development of this project I have always found myself willing to experiment with possibilities and outcomes. This project is exceptional and unique because it has been almost exclusively comprised of computer code that interacts directly with the user.
 
