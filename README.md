@@ -10,7 +10,7 @@ The man, the mystery, the madness...
 
 It's so minimal, I guess it's impossible not to learn and use it. What's really good about it is that it is fast, and it visually represents what the page will look like when it is rendered, so there's no real purpose in having a preview. Then again, I recently downloaded a marvelous program called [ZETTLR](https://www.zettlr.com), and it proves how hardcore [Markdown](https://www.markdownguide.org) can really be.
 
-![j_hbl.png](a_images\j_hbl.png)
+![j_hbl.png](./a_images/j_hbl.png)
 
 ## Here we go! Spicing it up with [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown)!
 
@@ -32,7 +32,7 @@ First, about a year ago, I was working hard at learning to write using [HTML](ht
 
 When I first started out with [HTML](https://en.m.wikipedia.org/wiki/HTML), I was writing all of the styling inside of the [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) element using the 'style="' type of stuff. I didn't really understand how 'classes' worked, or why I should use them. As it turns out, if you are doing everything wrong, the [HTML](https://en.m.wikipedia.org/wiki/HTML) still renders pretty quickly as long as you put all of the styles inside of the [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML). Blazing-fast, even if you have tonnes of [HTML](https://en.m.wikipedia.org/wiki/HTML) in there. For various reasons it makes absolutely no sense to write it that way... but my secret weapon was helping me to do it the bad way.
 
-![m_hbl.png](a_images\m_hbl.png)
+![m_hbl.png](./a_images/m_hbl.png)
 
 At the same time that I was learning [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), I was also learning to use both [BASH](https://en.m.wikipedia.org/wiki/Bash_(unix_shell)) and [VI](https://en.m.wikipedia.org/wiki/Vi_(text_editor)). Yes those '[ancient-computer-technologies](https://en.m.wikipedia.org/wiki/Antikythera_mechanism)'. Strange how they are both completely relevant even after such a long time. Nothing has really exceeded [BASH](https://en.m.wikipedia.org/wiki/Bash_(unix_shell)), and no [text editor](https://en.m.wikipedia.org/wiki/Text_editor) has exceeded [VI](https://en.m.wikipedia.org/wiki/Vi_(text_editor)). Those are simply the best available [development software](https://en.m.wikipedia.org/wiki/Software_development).
 
@@ -46,7 +46,7 @@ This might seem like a silly thing to do in the first place. "Why don't you just
 
 I simply did not know about those things yet, and I am a very stubborn person, who only wanted to work through it with what I already knew about. My strategy was to 'avoid learning'. I can only work through so many things at once in my mind so, I thought it was better to work through each problem gradually, and only incorporate new concepts if absolutely necessary. This might seem dumb and ignorant and unnecessary. That is a reasoned assessment: True.
 
-![g_hbl.png](a_images\g_hbl.png)
+![g_hbl.png](./a_images/g_hbl.png)
 
 A more thoughtful consideration might be that, no matter how much 'program languaging' anyone does, all of it is reducible to a '[Turing-Machine](https://en.m.wikipedia.org/wiki/Turing_machine)' anyhow. So, having fewer parts was, at that time, easier for my early learning. It kept the [learning curve](https://en.m.wikipedia.org/wiki/Learning_curve) from becoming prohibitively steep. My strategy, which continues today, is to bring in additional concepts gradually. That way I can try to make sure that I have a solid grasp of the most foundational ones before mixing in more concepts that might confuse what I have learned earlier.
 
@@ -78,7 +78,7 @@ Then suddenly, I felt the need to start working on a completely different type o
 
 Before completing such a program, [HTML](https://en.m.wikipedia.org/wiki/HTML) is difficult and takes a long time to work through. After completing the program, [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) is easy to draw and seems simple and you wonder why it was so difficult before. Then, there is more time to work on the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and the program concepts. There is no more 'wrestling with the [HTML](https://en.m.wikipedia.org/wiki/HTML)'.
 
-![n_hbl.png](a_images\n_hbl.png)
+![n_hbl.png](./a_images/n_hbl.png)
 
 I have followed those wise words all the way along on a very good learning path.
 
@@ -86,7 +86,7 @@ I have followed those wise words all the way along on a very good learning path.
 
 Needless to say, I started trying to put my [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) into the right place, at the top of the file. The job of this new program was to make up [HTML](https://en.m.wikipedia.org/wiki/HTML) like a 'cookie-cutter', and to shorten the *spiel* on this one: It also cut up an image and matched the parts to [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), a rather brilliant feat.
 
-![i_hbl.png](a_images\i_hbl.png)
+![i_hbl.png](./a_images/i_hbl.png)
 
 At that time, it felt like a real accomplishment for me. Just think that you can finally be able to bring graphical elements easily and seamlessly into the [HTML](https://en.m.wikipedia.org/wiki/HTML) environment. All of the code the program produced was giving the [CSS](https://en.m.wikipedia.org/wiki/CSS) in absolute positions. The images all fit exactly together. You could take the initial reference image and then use it as a template/model for your [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) image-grand-layout. I drew up a whole production around this program and it's major idea. If you just think about what that little program can do, and then you apply yourself creatively and also use [BASH](https://en.m.wikipedia.org/wiki/Bash_(unix_shell)) to make up some 'two-frame-animations', you suddenly have a website that looks very interesting and active. Then I figured out how to add some buttons and audio. Voila! You have a real production happening!
 
@@ -108,7 +108,7 @@ The concept was simple, you would have two letters, 'h' and 'w', and then number
 
 Even today, after completing this latest program, I still look back at that older model and I see potential.
 
-![l_hbl.png](a_images\l_hbl.png)
+![l_hbl.png](./a_images/l_hbl.png)
 
 If you can quickly draw up batches of [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) parts in nice rows, in a simple syntax, which is lightweight, and very minimal... that changes the game completely. Why would I ever write it 'manually' after seeing that? 'HW' was special, it used what is known as an 'engine' but, that's not really as complicated as it sounds. All the engine does is convert the 'h2w4w6w8' into the finished [HTML](https://en.m.wikipedia.org/wiki/HTML) which essentially describes rectangles. Really, I am still sure that the program I produced was brilliant. That is when I finally started using 'local storage', which I had never used before. I used it so much, I'm pretty sure I was using it to a completely unnecessary degree.
 
@@ -118,7 +118,7 @@ I worked on that original 'HW' program for a couple of months straight, in doubl
 
 That's when I knew I had to scrap it and start fresh.
 
-![j_hbl.png](a_images\j_hbl.png)
+![j_hbl.png](./a_images/j_hbl.png)
 
 [Object mode](https://en.m/wikibooks.org/wiki/Belnder_3D:_HotKeys/3D_View/Object_Mode) was just beginning to show through. The path forward was beginning to become clearer. '[Object-mode](https://en.m/wikibooks.org/wiki/Belnder_3D:_HotKeys/3D_View/Object_Mode)': That was the only way.
 
@@ -130,13 +130,13 @@ That's where this final project became the new cause. I needed to bring together
 
 I needed a program that was completely in an 'Object-Oriented-Visual-Mode'. Yep, basically like every other drafting program you have ever seen, only this time, *It Would Be For [HTML](https://en.m.wikipedia.org/wiki/HTML).*
 
-![n_hbl.png](a_images\n_hbl.png)
+![n_hbl.png](./a_images/n_hbl.png)
 
 This little project has become the centre of my world. From the earliest stages of the development of this project I have always found myself willing to experiment with possibilities and outcomes. This project is exceptional and unique because it has been almost exclusively comprised of computer code that interacts directly with the user.
 
 There are so many different types of [computer programming](https://en.m/wikipedia.org/wiki/Computer_programming), and most of the programming work that happens is never actually seen by the end user. The programs, which are the most vital, they are actually 'running-code' behind the scenes and the user never 'sees' any of it.
 
-![p_hbl.png](a_images\p_hbl.png)
+![p_hbl.png](./a_images/p_hbl.png)
 
 This is the advantage of writing a program which seeks to unlock the world of [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) Drafting: The code-work is almost always visual. So, the debugging process is also almost completely visual too. *(at the start)*
 
@@ -144,7 +144,7 @@ It's like the cake has already been baked up nice and fluffy by the bakers, and 
 
 To tell a little more about myself, without revealing my 'true-identity': I can tell you that I am a [Red-Seal](https://en.m.wikipedia.org/wiki/Red_seal_Program) [Carpenter](https://en.m.wikipedia.org/wiki/Carpentry) and that I live in [East Gwillimbury](https://en.m.wikipedia.org/wiki/East_Gwillimbury), [Ontario](https://en.m.wikipedia.org/wiki/Ontario).
 
-![o_hbl.png](a_images\o_hbl.png)
+![o_hbl.png](./a_images/o_hbl.png)
 
 Building a computer program is a lot like [carpentry](https://en.m.wikipedia.org/wiki/Carpentry) work. Everything relies completely on the foundation. Selecting the foundational structure has the effect of completely determining what can be built upon those footings. If we think carefully, we start taking the view that everything is 'like-a-foundation' in the sense that it has the potential to restrict or allow certain outcomes 'down-the-line'.
 
