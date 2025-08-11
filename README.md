@@ -96,7 +96,8 @@ If you can quickly draw up batches of HTML parts in nice rows, in a simple synta
 
 I worked on that original 'HW' program for a couple of months straight, in double shifts, sleeping every second day. I needed to learn JavaScript, even if I had to force myself to sit in front of the computer screen until I was suffering from both 'eye-strain' and 'carple-tunnel' simultaneously.
 
-## It wasn't long until the program was so loaded with HTML that I couldn't place a single additional piece of HTML into the code without producing an unexplainable error.
+## It wasn't long until the program was so loaded with HTML that I couldn't place a single additional piece of HTML into the code without producing an unexplainable 'fatal
+ error.
 
 That's when I knew I had to scrap it and start fresh.
 
@@ -112,7 +113,7 @@ I needed a program that was completely in an 'Object-Oriented-Visual-Mode'. Yep,
 
 This little project has become the centre of my world. From the earliest stages of the development of this project I have always found myself willing to experiment with possibilities and outcomes. This project is exceptional and unique because it has been almost exclusively comprised of computer code that interacts directly with the user.
 
-There are so many different types of computer programming, and most of the programming work that happens is never actually seen by the end user. The programs, which are the most vital, they are actually 'running-code' behind the scenes and the user never 'sees' it.
+There are so many different types of computer programming, and most of the programming work that happens is never actually seen by the end user. The programs, which are the most vital, they are actually 'running-code' behind the scenes and the user never 'sees' any of it.
 
 This is the advantage of writing a program which seeks to unlock the world of HTML Drafting: The codework is almost always visual. So, the debugging process is also almost completely visual too. *(at the start)*
 
@@ -127,6 +128,10 @@ Finally, there is a consideration of combination of foundational elements: Throu
 Now I will 'cut-it-short' and get back to 'hammering-down' some more code!
 
 - dckimGUY
+
+[DCKIM.com](https://dckim.com/)
+
+![Six Stars Across Breakline](./a_images/a_hbl.png)
 
 <!--
 **dckimMysteryAuthor/dckimMysteryAuthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
