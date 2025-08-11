@@ -52,6 +52,16 @@ I used that quirky little program, which was some-how, some-way, in the order of
 
 ## That was the start of my programming journey... but it went right on from there.
 
+I didn't give up on programming, I just kept right on working at it, and by the fall I started into some other small projects. You know, just some little stuff that you could use  on your phone. Whatever tiny programs could work in the browser. I knew that HTML was the right stuff for me... after all it's universal isn't it?
+
+## You might even call HTML/JAVASCRIPT/CSS as the Lingua-Franca of the programming world.
+
+Every programmer learns it at some point but, more importantly, every computer has a browser that knows it completely. Every browser needs it and basically the world-wide-web can't function without it.
+
+The wires in the ground, and the 'rays' streaming through the air, are somehow not nearly as important as HTML, JavaScript, and CSS. Those are what is really driving the internet. This is because of the simple nature of communication: To communicate effectively, we need to be speaking in the same language. Interpretation sets up only mis-understanding and inefficiency.
+
+![Two Stars connected by a thin line](./a_images/d_hbl.png)
+
 This little project has become the centre of my world. From the earliest stages of the development of this project I have always found myself willing to experiment with possibilities and outcomes. This project is exceptional and unique because it has been almost exclusively comprised of computer code that interacts directly with the user.
 
 There are so many different types of computer programming, and most of the programming work that happens is never actually seen by the end user. The programs, which are the most vital, they are actually 'running-code' behind the scenes and the user never 'sees' it.
