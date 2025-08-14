@@ -1,3 +1,7 @@
+![dckimMysteryAuthor Profile Picture](./a_images/q_profileLogo.png)
+
+
+
 # dckimMysteryAuthor
 The man, the mystery, the madness...
 
