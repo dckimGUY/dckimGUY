@@ -1,4 +1,4 @@
-![dckimMysteryAuthor Profile Picture](./a_images/q_profileLogo.png)
+[![dckimMysteryAuthor Profile Picture](./a_images/q_profileLogo.png)](https://dckim.com/HW_project_online.html)
 
 
 
