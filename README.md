@@ -3,6 +3,9 @@
 
 
 # dckimMysteryAuthor
+
+
+[![dckimMysteryAuthor Profile Picture](./a_images/r_matchingBreakline.png)](https://dckim.com/HW_project_online.html)
 The man, the mystery, the madness...
 
 [https://dckim.com](https://dckim.com)
